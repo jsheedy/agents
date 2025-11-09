@@ -1,0 +1,9 @@
+{
+  "name": "<project-name>",
+  "description": "One-line description",
+  "owner": "team or person",
+  "created": "2025-11-08T00:00:00Z",
+  "license": "MIT",
+  "type": "video|music|essay|agent|tool",
+  "entry": "agent_spec.md"
+}
