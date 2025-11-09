@@ -1,0 +1,1 @@
+A calm, majestic shot, spanning 6 seconds. The camera is positioned low, looking up at the full stack of the Starship rocket against a pre-dawn sky. The rocket is bathed in soft light, and steam is venting from its sides. The scene is still and quiet, full of potential energy. The mood is one of reverence, anticipation, and the calm before the storm.
