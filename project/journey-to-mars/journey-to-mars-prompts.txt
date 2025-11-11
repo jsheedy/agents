@@ -1,0 +1,75 @@
+JOURNEY TO MARS - ALL PROMPTS FOR GROK IMAGINE
+================================================================================
+
+CLIP 0001: 0001-ancient_foundations.md
+OUTPUT: journey-to-mars-0001.mp4
+--------------------------------------------------------------------------------
+An ultra-fast montage, spanning 6 seconds. Three pivotal moments, 2 seconds each: (1) Hominid raising bone tool against sky, 2001 homage, dramatic silhouette; (2) Primitive hands cupping first flame, faces illuminated by fire glow; (3) Wooden wheel rolling across ground, low angle tracking shot. Rapid cuts synchronized to building rhythm. High contrast, dramatic lighting progression from dawn to firelight to golden hour. The mood is rapid evolution, fundamental discoveries. Style: Koyaanisqatsi time-compression, Baraka human journey, aggressive cutting pace.
+================================================================================
+
+CLIP 0002: 0002-settled_civilization.md
+OUTPUT: journey-to-mars-0002.mp4
+--------------------------------------------------------------------------------
+A compressed montage, spanning 6 seconds. Two accelerated sequences, 3 seconds each: (1) Time-lapse of barren land transforming into crop rows, zoom to harvesting hands; (2) Aerial time-lapse of settlement exploding into sprawling ancient city, walls erecting, temples multiplying, streets forming geometric patterns. Extremely fast pacing, seasons cycling, buildings erupting from ground. Warm Mediterranean palette, golden agricultural light transitioning to urban dawn. The mood is explosive growth, civilization taking root. Style: Planet Earth hyper-lapse, SimCity god-view construction.
+================================================================================
+
+CLIP 0003: 0003-expansion_and_conflict.md
+OUTPUT: journey-to-mars-0003.mp4
+--------------------------------------------------------------------------------
+A rapid-fire montage, spanning 6 seconds. Three sequences, 2 seconds each: (1) Roman legions marching, cavalry charging, arrows flying - warfare shots cutting fast; (2) Ships evolution - sailing vessel to Viking longship to galleon to ironclad, quick dissolves; (3) Bustling marketplace, merchants trading, global commerce, different cultures meeting. Kinetic camera work, whip pans between shots. Epic scale, high contrast, saturated colors. The mood is expansion, conflict, interconnection. Style: Historical epic battle sequences, fast-cut trailer pacing, commerce documentary.
+================================================================================
+
+CLIP 0004: 0004-industrial_revolution.md
+OUTPUT: journey-to-mars-0004.mp4
+--------------------------------------------------------------------------------
+A powerful montage, spanning 6 seconds. Industrial imagery cutting rhythmically: massive factory gears turning, steam locomotive thundering with smoke, looms weaving at extreme speed, molten metal pouring, factory smokestacks against dusk sky. Each shot 1-1.5 seconds. Mechanical rhythm drives cuts. High contrast, dramatic shadows, warm industrial lighting, iron and brass textures. The mood is relentless mechanization, steam age power, modern world emerging. Style: Koyaanisqatsi industrial sequences, mechanical ballet, gritty Victorian aesthetic.
+================================================================================
+
+CLIP 0005: 0005-digital_age.md
+OUTPUT: journey-to-mars-0005.mp4
+--------------------------------------------------------------------------------
+A split montage, spanning 6 seconds. Two major leaps, 3 seconds each: (1) Space Age - grainy Sputnik, Saturn V launch, moon boot landing, Space Shuttle, ISS orbiting, archival to modern; (2) AI Era - neural network visualization glowing blue, self-driving car, robotic arm, code scrolling, facial recognition. First half historical/majestic, second half sleek/digital. Color progression from vintage to blue-cyan digital. The mood is boundary-breaking then consciousness-emerging. Style: Cosmos documentary wonder transitioning to Blade Runner 2049 UI tech.
+================================================================================
+
+CLIP 0006: 0006-convergence.md
+OUTPUT: journey-to-mars-0006.mp4
+--------------------------------------------------------------------------------
+A dramatic transition shot, spanning 6 seconds. Opens with Earth from space, digital networks and flight paths pulsing across globe like neural pathways. Camera rapidly zooms down through atmosphere, continents blurring past, zeroing in on specific location: SpaceX Starbase Texas. Massive silver Starship appears on launchpad in pre-dawn light. Final shot pushes close on Raptor engine cluster beginning to glow with energy. Blue-white digital aesthetic transitioning to physical steel reality. The mood is all history converging to this single point. Style: Google Earth dramatic zoom, mission control POV.
+================================================================================
+
+CLIP 0007: 0007-ignition_sequence.md
+OUTPUT: journey-to-mars-0007.mp4
+--------------------------------------------------------------------------------
+A building intensity shot, spanning 6 seconds. First 3 seconds: Low angle looking up at full Starship stack against pre-dawn gradient sky, cryogenic steam venting, stars above, stillness loaded with potential energy. Last 3 seconds: Extreme close-up as 33 Raptor engines ignite in cascade, green-white flame erupting, camera shake, intense light flooding everything, blast wave rippling air. Static calm EXPLODING into raw power. Metallic textures, heat distortion. The mood is anticipation detonating into primal energy. Style: IMAX documentary grandeur meets First Man visceral intensity.
+================================================================================
+
+CLIP 0008: 0008-liftoff_and_ascent.md
+OUTPUT: journey-to-mars-0008.mp4
+--------------------------------------------------------------------------------
+A majestic launch sequence, spanning 6 seconds. First 3 seconds: Wide angle Starship lifting off in slow motion, massive rocket rising gracefully, engine flames billowing, ground engulfed in smoke and steam, launch tower framing. Last 3 seconds: Starship high in atmosphere, silver needle against gradient sky darkening to space, ascending rapidly leaving white contrail, camera tilting up as rocket diminishes to bright point among emerging stars. Triumph transitioning to cosmic serenity. The mood is defying gravity, journey beginning, reaching for infinity. Style: Right Stuff heroic cinematography meets Gravity opening sequence grace.
+================================================================================
+
+CLIP 0009: 0009-mars_transit.md
+OUTPUT: journey-to-mars-0009.mp4
+--------------------------------------------------------------------------------
+A vast, contemplative shot, spanning 6 seconds. Starship in deep space, small vessel against infinite blackness and stars. Mars appears as small red dot growing gradually larger through the clip. Earth visible behind as receding blue marble. Camera slowly tracks ship crossing this immense gulf. Minimal movement, emphasizing scale and isolation. Deep space black, Mars rust-red growing, Earth blue fading. The mood is isolation, determination, vast interplanetary distance, the crossing. Style: 2001 space ballet meditation, Interstellar cosmic scale, real NASA deep space imagery.
+================================================================================
+
+CLIP 0010: 0010-mars_arrival.md
+OUTPUT: journey-to-mars-0010.mp4
+--------------------------------------------------------------------------------
+A dynamic arrival sequence, spanning 6 seconds. First 2 seconds: Mars filling frame showing surface details - canyons, craters, Olympus Mons, polar ice. Next 2 seconds: Starship enters orbit, curved rust-colored horizon. Final 2 seconds: Descent through thin atmosphere, retro-rockets firing, dust plumes on surface, ship steadying and touching down on flat plain landing site. Accelerating pace, building to landing moment. Orange-red Mars terrain, engine fire blue-white. The mood is approach, precision, arrival at new world. Style: The Martian mission sequences, documentary realism.
+================================================================================
+
+CLIP 0011: 0011-first_steps.md
+OUTPUT: journey-to-mars-0011.mp4
+--------------------------------------------------------------------------------
+An iconic moment, spanning 6 seconds. First 3 seconds: Starship airlock opens, spacesuited figure appears in doorway silhouetted against Mars landscape, pausing to take it in. Last 3 seconds: Descending ladder, boot making contact with red Martian soil - low angle captures first step, parallel to Moon landing. Endless rust-red horizon stretches behind. Slow deliberate movement, historic weight. Orange Mars daylight, spacesuit white against red. The mood is triumph, epochal moment, humans becoming multiplanetary. Style: Apollo mission photography, historic documentation, intimate yet grand.
+================================================================================
+
+CLIP 0012: 0012-colony_rising.md
+OUTPUT: journey-to-mars-0012.mp4
+--------------------------------------------------------------------------------
+An accelerating time-lapse finale, spanning 6 seconds. Starting from single landed Starship, Mars base rapidly takes shape: habitat modules deploying, solar panels unfolding like flowers, rovers tracking across surface leaving trails, greenhouses appearing with first green life, multiple ships landing in sequence, base growing from one ship to sprawling settlement. Camera pulls back revealing expanding human presence. Increasing pace mirroring the opening bone-to-space-station cut from 2001. The mood is growth, permanence, journey completing, new beginning. Style: Baraka time-lapse, 2001 evolutionary leap, full circle from raised bone to Mars city.
+================================================================================
+

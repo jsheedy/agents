@@ -1,1 +1,0 @@
-A slow-motion, awe-inspiring shot, spanning 6 seconds. The camera tracks the Starship as it slowly lifts off the launchpad. The massive rocket rises with a grace that belies its size and power. The flames from the engines billow out below, and the ground is engulfed in smoke and steam. The mood is one of triumph, of defying gravity, and of the beginning of a new journey.
